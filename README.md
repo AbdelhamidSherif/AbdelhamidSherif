@@ -9,9 +9,13 @@
 
 <h3 align="center" >A dedicated Software Engineer 💻 deeply interested in .NET technologies 🌐✨.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelhamidsherif&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhamidsherif" />
-		   <img src="https://img.shields.io/github/followers/abdelhamidsherif?label=Followers" alt="abdelhamidsherif" />
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=abdelhamidsherif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/abdelhamidsherif?tab=followers" target="_blank">
+        <img src="https://img.shields.io/github/followers/abdelhamidsherif?label=Followers" alt="Followers" />
+    </a>
 </p>
+
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
