@@ -17,6 +17,7 @@ jobs:
         with:
           username: AbdelhamidSherif
           github_token: ${{ secrets.METRICS_TOKEN }}
+          readme: "./README.md"
 
       - name: Commit changes
         run: |
