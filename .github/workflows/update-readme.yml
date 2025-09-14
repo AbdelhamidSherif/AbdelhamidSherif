@@ -1,0 +1,27 @@
+name: Update README with Repos
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # يشتغل مرة يوميًا (ممكن تغيرها)
+  workflow_dispatch:       # عشان تقدر تشغله يدويًا من Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README with repos
+        uses: actions-js/profile-readme@v1
+        with:
+          username: AbdelhamidSherif
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update repos list" || echo "No changes to commit"
+          git push
