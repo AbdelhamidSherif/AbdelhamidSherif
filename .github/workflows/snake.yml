@@ -1,22 +1,24 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every 24 hours
-    - cron: "0 0 * * *"
-  workflow_dispatch: # allows you to run manually
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # optional, يشغله كل يوم
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✨ لازم تضيف دي عشان يكتب على الفرع
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v2
 
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: AbdelhamidSherif
-          outputs: dist/snake.svg
+          github_user_name: AbdelhamidSherif   # ✨ غيرها لليوزر بتاعك
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
