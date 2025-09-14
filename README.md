@@ -51,8 +51,7 @@
 
 <p align="center">
 <a href="https://www.hackerrank.com/profile/Doctor_Dev">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/500px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/500px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50"/></a>
   <a href="https://leetcode.com/u/Doctor_Dev/">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
   </a>  
@@ -62,7 +61,8 @@
 <p align="center">
 	<a href="mailto:9abdelhamid080@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/AbdelhamidSherif"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201062754365"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://wa.me/201062754365" target="_blank">
+  <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://linkedin.com/in/abdelhamid-sherif"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100086305047581"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
@@ -75,16 +75,13 @@
 <p align="center"> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a> 
   &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
-  </a>
+    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white"></a>
   &emsp; 
   <a href="https://www.jsprogramming.com/" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 </p>
 
 
@@ -92,40 +89,31 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
   &emsp; 
   <a href="https://getbootstrap.com/" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
-  </a>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white"></a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
-  </a>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white"></a>
 	&emsp;
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank">
-  <img alt="LINQ" src="https://img.shields.io/badge/LINQ-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white">
-</a>
+  <img alt="LINQ" src="https://img.shields.io/badge/LINQ-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white"></a>
 	&emsp;
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
-  <img alt="EF Core" src="https://img.shields.io/badge/EF%20Core-%234078C0.svg?style=plastic&logo=dotnet&logoColor=white">
-</a>
+  <img alt="EF Core" src="https://img.shields.io/badge/EF%20Core-%234078C0.svg?style=plastic&logo=dotnet&logoColor=white"></a>
 &emsp;
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-  <img alt="SQL Server Database" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
-</a>
+  <img alt="SQL Server Database" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
 &emsp;
 <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank">
-  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white">
-</a>
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white"></a>
 
 </p>
 
