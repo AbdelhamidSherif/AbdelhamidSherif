@@ -207,8 +207,13 @@
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-  <!-- أضف هنا روابط ريبوزيتورياتك أو اتركها فاضية ليتم عرضها لاحقاً -->
-</div>
+
+<p align="center">
+  <a href="https://github.com/AbdelhamidSherif?tab=repositories" target="_blank">
+    🌟 Dive into my world of code — where ideas turn into reality 🚀
+  </a>
+</p>
 
 </details>
+
 </br></br>
