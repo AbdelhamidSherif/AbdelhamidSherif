@@ -28,7 +28,7 @@
 <br><br>
 - :school: I am a student at the Faculty of Science, Department of `Physics and Computer Science`, Menoufia University.
 - 🌱 I’m currently studying Computer Science and Physics, with a strong interest in Software Engineering, especially Web Development.
-- 📫 How to reach me? **9abdelhamid080@gmail.com**.
+- 📫 How to reach me? [Click here](mailto:abdelhamidsherif.engineer.career@gmail.com).
 - :nerd_face: Always `learning new things`.
 - 🐼 Doing my best.
 - :thinking: I’m currently open for new `internship` or `practical training opportunities`, this is [MY RESUME]()
