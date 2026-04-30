@@ -31,7 +31,7 @@
 - 📫 How to reach me? abdelhamidsherif.engineer.career@gmail.com
 - :nerd_face: Always `learning new things`.
 - 🐼 Doing my best.
-- :thinking: I’m currently open for new `internship` or `practical training opportunities`, this is [MY RESUME]()
+- :thinking: I’m currently open for new `internship` or `practical training opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1x9d4-iWaPB1hUzdwyeR759Ggyeoc-0DB/view?usp=drive_link)
 <br>
 
 <!-- ## 🐍 A Snake Eating my Contributions Graph
