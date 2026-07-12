@@ -50,9 +50,9 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> 💻 My Online Judge Accounts
 
 <p align="center">
-<a href="https://www.hackerrank.com/profile/Doctor_Dev">
+<a href="https://www.hackerrank.com/profile/AbuQoura99">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/500px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50"/></a>
-  <a href="https://leetcode.com/u/Doctor_Dev/">
+  <a href="https://leetcode.com/u/AbuQoura99/">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
   </a>  
 </p>
